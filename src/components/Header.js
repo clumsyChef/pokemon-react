@@ -1,9 +1,10 @@
 const Header = () => {
     return (
-        <nav className="navbar">
-            <a href="#">Home</a>
-            <a href="#">Pokemons</a>
-            <a href="#">Search</a>
+        <nav className="nav-bar text-2xl">
+            <a href="#">One</a>
+            <a href="#">Two</a>
+            <a href="#">Three</a>
+            <a href="#">Four</a>
         </nav>
     )
 }
