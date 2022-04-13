@@ -1,11 +1,6 @@
 const Header = () => {
     return (
-        <nav className="nav-bar text-2xl">
-            <a href="#">One</a>
-            <a href="#">Two</a>
-            <a href="#">Three</a>
-            <a href="#">Four</a>
-        </nav>
+        <h1>This is a heading</h1>
     )
 }
 
