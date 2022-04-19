@@ -1,7 +1,10 @@
 const Header = () => {
-    return (
-        <h1>This is a heading</h1>
-    )
-}
+	return (
+		<nav className="navbar">
+			<a href="/pokemon">Pokemons</a>
+			<a href="/types">Types</a>
+		</nav>
+	);
+};
 
 export default Header;
